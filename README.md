@@ -464,16 +464,92 @@ Objetivo é descobrir tendências, padrões e generalizações. Os dados geralme
 
 ## Ameaças à Validade
 
-- Construção
-  - Coleta de acordo com objetivo
-    - participantes/pesquisadores tinham o mesmo entendimento sobre o objeto?
-- Interna
-  - Relacionamento entre fatores
-    - mudanças nos elementos durante o estudo?
-      - time, política
-- Externa
-  - Descobertas relevantes para outros casos
-- Conclusão
-  - Dependência dos pesquisadores
+- **Construção:** Coleta de acordo com objetivo
+  - participantes/pesquisadores tinham o mesmo entendimento sobre o objeto?
+- **Interna:** Relacionamento entre fatores
+  - mudanças nos elementos durante o estudo?
+    - time, política
+- **Externa:** Descobertas relevantes para outros casos
+- **Conclusão:** Dependência dos pesquisadores
   - como a coleta foi organizada?
     - como a analise foi feita?
+
+---
+
+---
+
+<br /><br />
+
+# Metodologias Intervencionistas
+
+Parceria: ciência e prática
+
+- participação efetiva dos profissionais
+  <br /><br />
+
+## Action Research
+
+Processo realizado **por** e **para** aqueles que tomam ação.
+
+**Foco:** auxiliar público-alvo na melhoria/aperfeiçoamento de suas ações.
+
+**Características:**
+
+- cíclico
+- participativo
+- qualitativo
+- reflexivo
+  <br /><br />
+
+![alt text](image-1.png)
+
+**Diagnosticar:** identificar problema/tópico de pesquisa
+
+**Planejar ação:** definir **questão da pesquisa** e **elementos de intervenção**
+
+**Elementos de intervenção:**
+
+- técnicas para coleta/análise (quant. vs qual.)
+- quais dados
+- quando será executada
+- ambiente
+  <br /><br />
+
+## CMD (Cooperative Method Development)
+
+Focado em práticas de desenvolvimento de software em chão de fábrica
+
+**Foco:**
+
+- melhorar desenvolvimento do time
+- **cooperação** e **comunicação** entre usuarios/devs dentro das **equipes de desenvolvimento**
+  <br /><br />
+
+**Etapas:**
+![alt text](image-2.png)
+<br /><br />
+
+## DSR (Design Science Research)
+
+Concepção e análise de artefatos novos ou inovadores.
+
+**Sustentado por:**
+
+- relevância: oferecer soluções relevantes para o contexto estudado
+- rigor: pesquisa fundamentada em teorias e métodos científicos
+- novidade: termos tecnológicas novas ou refinadas
+  ![alt text](image-3.png)
+  <br /><br />
+
+## SoftCoDeR (coda-fofo)
+
+Software Cooperative Design Research.
+
+Combina ação do CMD com artefatos do DSR.
+<br /><br />
+
+## CMD vs DSR
+
+**CMD:** foco na resolução de problemas por meio de mudança social e organizacional. É centrado na descoberta através da ação.
+
+**DSR:** foco na resolução de problemas através da proposta de artefatos para contextos específicos. É centrado na descoberta através do design.
