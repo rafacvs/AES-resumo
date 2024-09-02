@@ -456,6 +456,7 @@ Objetivo é descobrir tendências, padrões e generalizações. Os dados geralme
 
 - aberta
 - fechada
+  <br /><br />
 
 **Memorandos:** textos que ajudam a pensar sobre códigos, como o processo toma forma, identificar padrões, etc
 
@@ -526,6 +527,7 @@ Focado em práticas de desenvolvimento de software em chão de fábrica
   <br /><br />
 
 **Etapas:**
+
 ![alt text](image-2.png)
 <br /><br />
 
