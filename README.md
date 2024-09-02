@@ -410,3 +410,70 @@ Múltiplas fontes de evidências.
 - observações
 - documentos
   <br /><br />
+
+## Triangulação
+
+**Tipos:**
+
+- dados
+- pesquisadores
+- teoria (mesmo conjunto de dados)
+- metodológica (sobre coleta de dados)
+  <br /><br />
+
+## Técnicas de coleta
+
+**Tipos:**
+
+- diários de trabalho `2º grau`
+- observação `1º grau`
+  - participativa ou não
+  - formas de coleta
+    - conversa
+    - think aloud
+    - shadow sincronizado
+- focus group `1º grau`
+- entrevistas
+
+### Como escolher a técnica
+
+1. Qual é a abertura que a empresa tem para coleta de dados?
+2. Qual a disponibilidade de tempo dos sujeitos?
+3. Qual nível de detalhamento você precisa dos dados?
+   <br /><br />
+
+## Análise de Dados
+
+Objetivo é descobrir tendências, padrões e generalizações. Os dados geralmente são **categorizados**.
+
+**Abordagens:**
+
+- ad-hoc
+- grounded theory
+  <br /><br />
+
+**Codifiação:**
+
+- aberta
+- fechada
+
+**Memorandos:** textos que ajudam a pensar sobre códigos, como o processo toma forma, identificar padrões, etc
+
+- tarefas, ideias ou código
+  <br /><br />
+
+## Ameaças à Validade
+
+- Construção
+  - Coleta de acordo com objetivo
+    - participantes/pesquisadores tinham o mesmo entendimento sobre o objeto?
+- Interna
+  - Relacionamento entre fatores
+    - mudanças nos elementos durante o estudo?
+      - time, política
+- Externa
+  - Descobertas relevantes para outros casos
+- Conclusão
+  - Dependência dos pesquisadores
+  - como a coleta foi organizada?
+    - como a analise foi feita?
